@@ -1,4 +1,6 @@
 
+print("Digite o CPF:")
+
 cpfDigitado = input()
 
 CpfSepardosEsp = cpfDigitado.replace("-", ".")
